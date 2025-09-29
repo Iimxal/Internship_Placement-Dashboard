@@ -13,22 +13,6 @@ It provides insights into **sources of internships, placement modes, performance
 
 ---
 
-## 🖼️ Dashboard Screenshots
-
-### 🏠 Home Dashboard
-![Home Dashboard](Overall Dashboard.png)
-
-### 🌐 Internship Source
-![Internship Source](images/internship_source.png)
-
-### 💼 Placement Analysis
-![Placement Analysis](images/placement_analysis.png)
-
-### 📈 Learning Ratings
-![Learning Ratings](images/learning_ratings.png)
-
----
-
 ## 🚀 Tech Stack
 - **Python Libraries** - Data Cleaning 
 - **Power BI** – Dashboard & Visualization
