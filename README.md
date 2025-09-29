@@ -16,7 +16,7 @@ It provides insights into **sources of internships, placement modes, performance
 ## 🖼️ Dashboard Screenshots
 
 ### 🏠 Home Dashboard
-![Home Dashboard](images/home_dashboard.png)
+![Home Dashboard](Overall Dashboard.png)
 
 ### 🌐 Internship Source
 ![Internship Source](images/internship_source.png)
